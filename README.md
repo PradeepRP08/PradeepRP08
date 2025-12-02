@@ -1,16 +1,15 @@
-## Hi there 👋
+┌─[pradeep@cyberspace]─[~/profile]
+└──╼ whoami
+                  ╔══════════════════════════════════════════════════════════════╗
+                  ║  NAME         │ Pradeep RP                                   ║
+                  ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
+                  ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
+                  ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
+                  ║  STATUS       │ ONLINE & Hacking the Universe                ║
+                  ╚══════════════════════════════════════════════════════════════╝
 
-<!--
-**PradeepRP08/PradeepRP08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Initializing cybersecurity protocols...  [✓]
+> Loading AI algorithms...                 [✓]
+> Blockchain networks synchronized...      [✓]
+> Development environment active...        [✓]
+> Ready for innovation...                  [✓] 
