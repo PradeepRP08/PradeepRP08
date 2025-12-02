@@ -2,7 +2,7 @@
 
 ## > SYSTEM ID
 ```bash
-┌─[rithish@cyberspace]─[~/profile]
+┌─[pradeep@cyberspace]─[~/profile]
 └──╼ whoami
                   ╔══════════════════════════════════════════════════════════════╗
                   ║  NAME         │ Pradeep RP                                   ║
